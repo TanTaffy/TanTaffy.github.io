@@ -1,2 +1,10 @@
 name: My Site
-theme: minima
+title: Tanzeel Majid
+theme: jekyll-theme-minimal
+
+header_pages:
+  - about.md
+  - projects.md
+
+github_url: https://github.com/TanTaffy
+linkedin_url: https://www.linkedin.com/in/tanzeel-majid-6b8b84298/
