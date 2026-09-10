@@ -2,6 +2,8 @@ name: My Site
 title: Tanzeel Majid
 theme: jekyll-theme-minimal
 
+logo: https://github.com/TanTaffy.png?size=200
+
 header_pages:
   - about.md
   - projects.md
