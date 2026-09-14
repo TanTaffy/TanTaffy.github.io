@@ -22,12 +22,12 @@ A keen learner since young, I've tried my hand on a variety of different project
 * **Software-Hardware Integration** Leveraging languages such as Python/C++ as well as using programs such as Simhub in order to control hardware peripherals, automate tests and process data received from sensors.
 
 ## Technical Stack
-* **Programming** Python, C/C++,  HTML, MATLAB
+* **Programming** Python, C/C++, MATLAB
 * **Tools** VS Code, Linux/Terminal, MATLAB, Fusion 360, KiCad, Notion
 
 # My work
 
-## [Project TM01]
+## Project TM01(/projects/project-tm01/)
 A first concept of a GT-style wheel designed for an authentic sim racing experience
 <img src="/assets/images/cadv1.png" alt="CAD designed in Fusion360" >
 <img src="/assets/images/16891.jpg">
