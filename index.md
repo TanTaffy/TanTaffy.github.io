@@ -27,7 +27,7 @@ A keen learner since young, I've tried my hand on a variety of different project
 
 # My work
 
-## Project TM01(/projects/project-tm01/)
+## [Project TM01](/projects/project-tm01/)
 
 A first concept of a GT-style wheel designed for an authentic sim racing experience
 <img src="/assets/images/cadv1.png" alt="CAD designed in Fusion360" >
