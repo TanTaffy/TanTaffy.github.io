@@ -8,6 +8,9 @@ Welcome to my portfolio! I am a student at The University of Manchester currentl
   <a href="https://www.linkedin.com/in/tanzeel-majid-6b8b84298/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
+* **Personal Email:** [tanzeelmajid1795@gmail.com](mailto:tanzeelmajid1795@gmail.com)
+* **University Email:** [tanzeel.majid@student.manchester.ac.uk](mailto:tanzeel.majid@student.manchester.ac.uk)
+
 # About me  
 I am an engineer based in Manchester currently enrolled in the University of Manchester, a Powertrains Engineer for the University of Manchester Eco-Racing Team and a huge tech enthusiast for a majority of my life!
 
