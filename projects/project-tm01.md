@@ -9,8 +9,10 @@ permalink: /projects/project-tm01/
 
 Sim racing is a hobby that I've always been fond of doing in theory, however the barrier to entry has always been ridiculously high in my view, so when I got the opportunity to receive funding from the UKESF to work on projects of my choosing, providing proper justification, there was only one real option for me, to realise a vision I had held for years. 
 
-<img src="/assets/images/prices1.png" width="600">
-<img src="/assets/images/prices2.png" width="600">
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="/assets/images/prices1.png" width="48%">
+  <img src="/assets/images/prices2.png" width="48%">
+</div>
 
 ### Even now, with significantly increased competition in the market as opposed to years prior, prices for Formula/GT-style wheels are very inaccessible for many people.
 
