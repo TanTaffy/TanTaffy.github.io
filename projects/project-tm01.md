@@ -52,7 +52,7 @@ Shifters were a more difficult problem, as the initial plan was to use spring lo
 To start, I first made a rough outline for the baseplate of the wheel, ensuring that it is a properly scaled wheel and fits my dimension of 280-300mm long and about 150mm tall, before adding a rough shape to represent the grips
 
 <div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
-  <img src="/assets/images/baseplate1.jpg" width="48%">
+  <img src="/assets/images/baseplate1.png" width="48%">
   <img src="/assets/images/v1_1.png" width="48%">
 </div>
 
@@ -60,7 +60,7 @@ To start, I first made a rough outline for the baseplate of the wheel, ensuring 
 
 next on the agenda was creating shell to make a case -I'll call the backplate- where all of the electronics will be contained, and to do so i just traced an outline around where the grips would stop on the backplate and created a new body that i hollowed out. on top of this, i remoulded the grips, getting a feel for how a person would grab them and editing them to fit that shape more ergonomically, as well as adding screw holes to attach the grips to the baseplate.
 
-<img src="/assets/images/v1_2">
+<img src="/assets/images/v1_2.png">
 
 
 
