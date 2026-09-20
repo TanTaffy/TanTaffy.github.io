@@ -41,7 +41,7 @@ Beyond the silhouette, I had to also work on choices for inputs, which is the mo
 Shifters were a more difficult problem, as the initial plan was to use spring loaded shifters, however, it became increasingly obvious that magnetics were a better choice, not only because they were better feeling, but they were also far easier to implement. The most crucial component for the switches for the shifters, and I eventually landed on the Omron SS-5, a compact switch which fulfilled all my needs, with a small current draw allowing it to connect directly to the pro micro without additional components.
 
 <div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
-  <img src="/assets/images/omron.png" width="48%">
+  <img src="/assets/images/omron.jpg" width="48%">
   <img src="/assets/images/shifter.png" width="48%">
 </div>
 
@@ -49,7 +49,18 @@ Shifters were a more difficult problem, as the initial plan was to use spring lo
 
 ## Design
 
+To start, I first made a rough outline for the baseplate of the wheel, ensuring that it is a properly scaled wheel and fits my dimension of 280-300mm long and about 150mm tall, before adding a rough shape to represent the grips
 
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
+  <img src="/assets/images/baseplate1.jpg" width="48%">
+  <img src="/assets/images/v1_1.png" width="48%">
+</div>
+
+### The baseplate was kept as 4mm thick, ensuring the aluminium was more than strong enough to at least support the 5Nm from a Moza R5
+
+next on the agenda was creating shell to make a case -I'll call the backplate- where all of the electronics will be contained, and to do so i just traced an outline around where the grips would stop on the backplate and created a new body that i hollowed out. on top of this, i remoulded the grips, getting a feel for how a person would grab them and editing them to fit that shape more ergonomically, as well as adding screw holes to attach the grips to the baseplate.
+
+<img src="/assets/images/v1_2">
 
 
 
