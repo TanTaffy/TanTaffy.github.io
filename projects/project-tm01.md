@@ -66,8 +66,10 @@ next on the agenda was creating shell to make a case -I'll call the backplate- w
 
 The next step I wanted to take was make a print of of what I had built so far, to ensure that what I was making was accurate, and felt good to use and interact with, as well as allowing me to physically take measurements and put different things into perspective. I used my University's makerspace alot for this, utilising their array of Bambu 3D printers.
 
-<img src="/assets/images/print1_1.png">
-<img src="/assets/images/print1_2.png">
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="/assets/images/print1_1.jpg" width="48%">
+  <img src="/assets/images/print1_2.jpg" width="48%">
+</div>
 
 I figured out a few things from this, button placements and where my hand would feel most comfortable placing them, as well as how to edit the grips to provide a slightly improved feel to them.
 
