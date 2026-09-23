@@ -91,8 +91,8 @@ Next, I planned out the button layout with the buttons I had, as well as adding 
 
 For the final touches, I edited the backplate mount, as I realised how much longer it would take to print (almost 6 hours total!) as well as giving practically no benefit overall, so ended up making it flat to match up with the rest of the backplate.
 
-<img src="/assets/images/v1.33.png" width="48%">
+<img src="/assets/images/v1.33.png">
 
 This plus some final edits to the layouts for the buttons i realised after checking an updated frontplate with screw mounts led to the final model for the wheel!
 
-<img src="/assets/images/v1.34.png" width="48%">
+<img src="/assets/images/v1.34.png">
