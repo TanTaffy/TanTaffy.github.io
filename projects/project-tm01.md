@@ -80,6 +80,19 @@ This then led me to start working on the backplate more, and planning out the la
   <img src="/assets/images/v1.3_2.png" width="48%">
 </div>
 
+Next, I planned out the button layout with the buttons I had, as well as adding screw holes, based on where i felt they would best work looking at the first prints i made for the wheel, as well as creating an initial design for where the quick release would attach to.
 
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
+  <img src="/assets/images/v1.32_1.png" width="48%">
+  <img src="/assets/images/v1.32_2.png" width="48%">
+</div>
 
+### In retrospect, the amount of screws were quite excessive and made for lengthy disassembly and reassembly, as well as creating a fatal flaw I will address later.
 
+For the final touches, I edited the backplate mount, as I realised how much longer it would take to print (almost 6 hours total!) as well as giving practically no benefit overall, so ended up making it flat to match up with the rest of the backplate.
+
+<img src="/assets/images/v1.33.png" width="48%">
+
+This plus some final edits to the layouts for the buttons i realised after checking an updated frontplate with screw mounts led to the final model for the wheel!
+
+<img src="/assets/images/v1.34.png" width="48%">
