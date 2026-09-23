@@ -73,6 +73,12 @@ The next step I wanted to take was make a print of of what I had built so far, t
 
 I figured out a few things from this, button placements and where my hand would feel most comfortable placing them, as well as how to edit the grips to provide a slightly improved feel to them.
 
+This then led me to start working on the backplate more, and planning out the layout for the buttons, electronics, screw holes and the quick release, which was my immediate concern, as it led to one of the designs I wanted to use for the shifters being ruled out due to being too bulky without immense modifications, which led me to finding a new design for them, as well as where specifically to place the quick release.
+
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
+  <img src="/assets/images/v1.3_1.png" width="48%">
+  <img src="/assets/images/v1.3_2.png" width="48%">
+</div>
 
 
 
