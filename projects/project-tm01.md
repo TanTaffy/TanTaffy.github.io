@@ -157,7 +157,7 @@ On top of that, I achieved at making this cost effective, leading to approximate
 However, in reality, there were a few glaring flaws with this wheel, that hold it back. And while in theory most of the flaws would not drive up the cost of the wheel significantly, some of them are so fundamental it
 means that the wheel is not realistically viable in the long term.
 
--**The first and most glaring flaw- Strength of the wheel** the quick release is purely mounted to the PLA backplate and nothing else, this means that most of the force will go through the PLA, which could lead to major damage to the wheel after prolonged use. In theory, this change would not be expensive for this wheel in particular, but its an important flaw that I will need to immediately address if I ever revisit this particular design (which I plan to at some point).
+-**The first and most glaring flaw- Strength of the wheel.** the quick release is purely mounted to the PLA backplate and nothing else, this means that most of the force will go through the PLA, which could lead to major damage to the wheel after prolonged use. In theory, this change would not be expensive for this wheel in particular, but its an important flaw that I will need to immediately address if I ever revisit this particular design (which I plan to at some point).
 
 **-Planning out my layout and soldering**- the lack thereof in the construction of this specific wheel made my life significantly harder when assembling it and trying to keep everything in place, so planning out the proper precautions beforehand is a must for any project I make going forward
 
