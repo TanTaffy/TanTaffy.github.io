@@ -137,9 +137,40 @@ Another detail- i realised i needed to tape this to something, and it would not 
 
 ### It lives!
 
-Finally, I could start working on the software side of the project, which was made very simple by Simhub, which paired with some C++, let me setup the wheel and make sure it was fully working within an hour
+Finally, I could start working on the software side of the project, which was made very simple by Simhub, which paired with some C++, let me setup the wheel and make sure it was fully working within an hour.
 
 <div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
   <img src="/assets/images/simhub.png" width="48%">
   <img src="/assets/images/c++code.png" width="48%">
 </div>
+
+### Another perk of Simhub, was that it allowed the wheel to actually be recognised as a gamepad rather than just an Arduino making compatibility with games significantly easier as a result.
+
+## Outcomes and lessons learnt
+
+Finally, the wheel was complete! And every input was fully functional, allowing it to be used seamlessly (minus the additional USB-C cable) with my Moza Wheelbase!
+
+<img src="/assets/images/16891.jpg">
+
+On top of that, I achieved at making this cost effective, leading to approximately 70% percent cheaper than a GT-style Moza or Fanatec wheel, costing me around £62 in total! So in theory all of my goals were achieved.
+
+However, in reality, there were a few glaring flaws with this wheel, that hold it back. And while in theory most of the flaws would not drive up the cost of the wheel significantly, some of them are so fundamental it
+means that the wheel is not realistically viable in the long term.
+
+-The first and most glaring flaw- Strength of the wheel. the quick release is purely mounted to the PLA backplate and nothing else, this means that most of the force will go through the PLA, which could lead to major damage to the wheel after prolonged use. In theory, this change would not be expensive for this wheel in particular, but its an important flaw that I will need to immediately address if I ever revisit this particular design (which I plan to at some point).
+
+-Planning out my layout and soldering, the lack thereof in the construction of this specific wheel made my life significantly harder when assembling it and trying to keep everything in place, so planning out the proper precautions beforehand is a must for any project I make going forward
+
+-USB-C passthrough- a fairly minor one, but still to consider as drilling a hole that led to a crack in the backplate is not ideal
+
+-Lack of features- while I've proved I CAN build wheels, any future iterations need to be more feature rich with a better presentation than bare aluminium and plastics of various colours
+
+Most of these flaws would actually be fairly easy to implement in a rebuild of this wheel, but it's something I had to hold off on due to time constraints.
+
+Regardless of its faults, this project has taught me so much it has been pretty much transformative to my knowledge and my skills in engineering-
+
+**I have become far more proficient in CAD software** with being able to develop 3D models with pretty much zero personal guidance on how to do do certain tasks.
+**Prototyping** and working on edits on the fly has allowed me to become far more flexible to any situation, meaning I can come up with more effective responses to changes in the situation or issues quickly.
+**My experience with soldering and embedded systems** getting to work on them without restrictions have allowed me to develop more practical skills with them, and achieve a far better understanding of how they operate and how to use them effectively.
+
+Therefore, despite these flaws, I consider this project to be a success regardless, as what I have learnt from it has ended up becoming so much more useful to me than the product itself (though a functioning wheel of my own design is very cool admittedly!)
