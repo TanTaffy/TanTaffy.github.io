@@ -99,4 +99,22 @@ This plus some final edits to the layouts for the buttons i realised after check
 
 ## Assembly and electronics
 
- At this point I moved onto fully building the wheel, buying the materials needed such as the quick release adapter, aluminium, magnets and switches 
+At this point I moved onto fully building the wheel, buying the materials needed such as the quick release adapter, aluminium, magnets and switches.
+
+First on the agenda was getting the baseplate cut from aluminium and testing the buttons and grips fit properly, which thankfully all fit together properly, then it was printing the chassis for the shifters as well as the backplate to see how they all fit together in case any final adjustments were needed.
+
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
+  <img src="/assets/images/IMG20260727181056.jpg" width="48%" style="transform: rotate(-90deg);">
+  <img src="/assets/images/IMG20260727181102.jpg" width="48%" style="transform: rotate(-90deg);">
+</div>
+
+### The printing seemed to go well, though the colours ended up clashing as i was using a variety of printers with varying filaments to get it done quicker.
+
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
+  <img src="/assets/images/IMG20260727183346.jpg" width="48%">
+  <img src="/assets/images/IMG20260727183351.jpg" width="48%">
+</div>
+
+### They fit together seamlessly which was a great relief for me!
+
+
