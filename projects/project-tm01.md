@@ -110,11 +110,36 @@ First on the agenda was getting the baseplate cut from aluminium and testing the
 
 ### The printing seemed to go well, though the colours ended up clashing as i was using a variety of printers with varying filaments to get it done quicker.
 
+At this point, the first flaw in my design showed up - there was no proper hole for a cable to go out of the wheel and connect to the wheel, which was remedied with drilling a hole into the wheel at the cost of alot of structural integrity.
+
 <div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
-  <img src="/assets/images/IMG20260727183346.jpg" width="48%">
-  <img src="/assets/images/IMG20260727183351.jpg" width="48%">
+  <img src="/assets/images/IMG20260727183346.jpg" width="50%">
+  <img src="/assets/images/IMG20260727183351.jpg" width="50%">
 </div>
 
 ### They fit together seamlessly which was a great relief for me!
 
+Next on the agenda was beginning work on the wiring and soldering. For this project I was using an Arduino Pro Micro, due to the vast amounts of documentation covering similar projects utilising it, making it very easy to use as any issues were more easy to diagnose quickly, as well as having compatibility with simhub which makes the wheel being recognised as a proper wheel much easier.
 
+<img src="/assets/images/arduino.png">
+
+To begin with, I started working on soldering the shifter modules first, due the very finicky nature of them, I felt getting the most difficult part out of the way immediately was the best course of action. However, in hindsight, connecting wires to the button modules first then the Arduino after caused major headaches for trying to cable manage and effectively keep the Arduino in place at all, but more on that later.
+
+<img src="/assets/images/IMG20260810144441.jpg">
+
+Finally, I had to begin soldering the rest of the components to the Arduino. I quickly realised I didn't have any way to properly connect all of the grounds, so as a makeshift solution i cut off a piece of perfboard to act as a common ground for all inputs to connect to the Arduino. This, plus the error of soldering my components first let to the cable monstrosity i ended up producing as a result of all of this-
+
+<img src="/assets/images/IMG20260812122715.jpg">
+
+Another detail- i realised i needed to tape this to something, and it would not stick to the PLA at all, so I had to settle for layering electrical tape on the aluminium and taping it to that instead. But, the only part that really mattered to me was that it worked!
+
+<img src="/assets/images/IMG20260813112149.jpg">
+
+### It lives!
+
+Finally, I could start working on the software side of the project, which was made very simple by Simhub, which paired with some C++, let me setup the wheel and make sure it was fully working within an hour
+
+<div style="display: flex; gap: 15px; justify-content: center; align-items: center; flex-wrap: wrap; margin-bottom: 15px;">
+  <img src="/assets/images/simhub.png" width="48%">
+  <img src="/assets/images/c++code.png" width="48%">
+</div>
