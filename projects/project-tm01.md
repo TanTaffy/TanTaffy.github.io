@@ -96,3 +96,7 @@ For the final touches, I edited the backplate mount, as I realised how much long
 This plus some final edits to the layouts for the buttons i realised after checking an updated frontplate with screw mounts led to the final model for the wheel!
 
 <img src="/assets/images/v1.34.png">
+
+## Assembly and electronics
+
+ At this point I moved onto fully building the wheel, buying the materials needed such as the quick release adapter, aluminium, magnets and switches 
